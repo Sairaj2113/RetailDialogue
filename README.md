@@ -22,3 +22,10 @@ Step 4 :
 
 Step 5 : 
   Run the react app that is made in Nyxiee Folder 
+
+
+Pinecone Database Integration with Main.py 
+    Go on official site of pinecone databases 
+    Sign up and get API KEY
+    Using API KEY create a index nykaa-products  and  nykaa-orders 
+    
