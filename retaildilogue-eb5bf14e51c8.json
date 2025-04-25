@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "retaildilogue",
+  "private_key_id": "eb5bf14e51c8d13082b29a8429bfc1671cf73a6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbu9kyD3V+ct0z\nShcRolYfGVnHraVle7xATQa02BKJPXI/6H5+c9ruNgddtMp1ctMO751l3IkVCNmg\nh4SXPYO0PkhFwkWIKhw29qTNicztMFGDj6MLFNajoe4+ZCS5xsXBaUgHTykCYBVM\nLZxIc+S5N0P+b1yC4wnY2kaoctZ6+q+TbvP6rU6ESnw2U1OHKrAik08n/fxxAt4N\nGqTLw4nvz5J3a5I1ShwKKV0SRKD5mPtD9DyK8sYKXyzItdgYo0NE2jwWVk/P3cG2\nyP5sdu7BsmFBEwV1T4bnWdea5MIQzfLkpchzxbMA+jQBL1tJTBSUuSScfldfe60r\nosnGWzmJAgMBAAECggEAIB3T036bqPmwQ5EOg9z6LMyyFrtpZi3n60zXSrlazUHG\nS4a7e4GSD1lGGJ2duS32d9iTmbuq65MZKoF4JyaRAD1t8zD23PduPSmNYDQAdpPl\n459eLP1drH5LH0PQzR1AkDwRlixNlUdSbRTk6443B7lthM3bgsSmtbmCI+AW+mJh\nCTwtJmti6AVUOCgD171jOS5T87NUnEEfnrnLs2H5/M+l8FwIf+Iqru1YWv/s4L+L\nej2lI7r1TfF8aQk1M78jjlV2XI+u+r9vZWJPRjgUBuucrqVd0i4z0YrGJSxpBBpt\nDs4XnzQ5UzRnJH86rE+oMcn0V62x3fQtQp/9A+7fZwKBgQDUpvqUrIqA5E0DFCBk\nfqMQlWJjZeJdLRQrMX0G9PtRHncqUvnC5ycSw5HpQ38Ocbs6gRbcFVRYl+EEHLW4\ncPQwTs3pwRO1RONl4SwcuAh+oaCln4i/wKd1dS28xafPrbcPHJdKyxVUsDpV5y7d\nlIGOYwbhgDVb/19HjgVGLzs2vwKBgQC7eqRrOhYDAMjltHVmAfsxmx8TZtMoGFgg\nurAfnu463g/Rv7wSTUgG9CPUcHLbwRH1zPeyqD8zLSwDevp3FqnZm45eSNV5HOmE\na14d7/T7dPYO0OH9W9wSPxEvkKt5hd3YYkrFzOhPjVaOrGkUykE1seqD28eyo2ru\nwPu5l92ptwKBgHc6nBqJ1ypHVuqX+UV/P1xH9Z83e8C0Sq+hErG438Puqe/AECt4\nQQ8jOgcoge+OUuSNhkylZOI7Xb1Zf4XHRxJizM74I12qHzl7E6mSgajGZHUYSqsA\nkKOprJg/1kP56T5+0FDuJqqSGFMbyMoRvsYfvbbnlINdXoWXGlvslW2vAoGBAJFe\nBx8davPpJ9z0kBMIdj2AihgBIrl0JuE54FakZRRAGwQIJ0wJoE/D/gQ7LNQ4YDS3\nOVjOHDMSU45fTNYKPKj+dOWmk9/VCzwiBFgyN0LC7geO76wEDiAXxrua8VrI8btW\ne6Pjvj3w2azHArOcH/QCgFS9lZpuG/wEpyrBFp8BAoGBANB4lMVmLu0MG+kVkuZB\ngiQMCIXGEAgtKTSSqz3ksonA3OR7WZraMpQ4GtYgMuX8HjNO2Mwbj82jZiFVh+3K\njjWkshRHl6/lIpsbQ5JFLxh6iD3R3X+yOUjXySMiffj+5T64tEdjkQ2oyM192uCJ\nETCCjy/liyKM8ZAZNEbRNZEE\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-accessor@retaildilogue.iam.gserviceaccount.com",
+  "client_id": "107644585497325405825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-accessor%40retaildilogue.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
